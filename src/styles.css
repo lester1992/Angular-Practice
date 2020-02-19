@@ -4,4 +4,10 @@
 }
 .mgy-header-font{
   font-weight: bold !important;
+  font-family: 'QuiapoFree'
+}
+
+@font-face {
+    font-family: 'QuiapoFree';
+    src: url('/fonts/Quiapo_Free.ttf') format('truetype');
 }
